@@ -1,6 +1,6 @@
 # my_phone
 
-A new Flutter project.
+考虑到老年人使用手机不便，可能有各种广告，因此编写这个很方便打电话的应用app，字体很大，有直接拨打电话的按钮，点击能播放联系人名称。
 
 ## Getting Started
 
